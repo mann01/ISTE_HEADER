@@ -6,6 +6,7 @@ CSS
 JQUERY 
 
 Description:
+
 Sticky Header is implemented with some cool features inside it.
 
 On Scrolling the header different features are observed.
@@ -17,8 +18,9 @@ Home option is placed nder active class(hovered continuously) as user is present
 Slight transistions are placed.
 
 Web page is maded responsive which is also compatible for mobile users.
+
 Google fonts imported:
-  @import url('https://fonts.googleapis.com/css?family=Roboto:700');
+     @import url('https://fonts.googleapis.com/css?family=Roboto:700');
 
 Jquery is attached to  file using cdn.
   https://code.jquery.com/jquery-3.4.1.js using this link.
